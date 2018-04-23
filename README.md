@@ -11,7 +11,7 @@ Features
 
 Screenshots
 ====
-  <img  src="screenshots/godot_fps.png" width="800" height="500" >
+  <img  src="screenshots/godot_fps.png" width="900" height="500" >
 
 
 Keys
