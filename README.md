@@ -9,6 +9,11 @@ Features
 - Step up stairs and slopes
 - View model (first person gun), dynamic toggleable flashlight with shadows
 
+Screenshots
+====
+  <img  src="screenshots/godot_fps.png" width="400" height="800" >
+
+
 Keys
 ====
 
@@ -17,3 +22,6 @@ Keys
 - Fire: `Left Mouse Button`
 - Run: `Shift`
 - Toggle flashlight: `L`
+
+
+
